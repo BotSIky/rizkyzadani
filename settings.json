@@ -1,0 +1,92 @@
+{    
+     "Version": "2.3.0",
+     "namalu" : "𝙄𝙆𝙔-𝙓𝙔𝙕",
+     "nomerlu": "6289699472590",
+     "namabot": "𝘽𝙊𝙏 [] 𝙄𝙆𝙔",
+     "nomerbot": "6289699472590",
+     "gender" : "𝙵𝙴𝙼𝙰𝙻𝙴",
+     "copyright" : "𝖭𝗈 𝖳𝖺𝗅𝗄",
+     "imgbbApikey": "06fd47f20c573d4795a47af91f081932",
+     
+     "namaDocument": "𝙷𝙴𝚁𝙴 𝙸𝚂 𝙸𝙺𝚈'𝙱𝙾𝚃𝚉",
+     "joinGcExtream": true,
+
+     "Anticall": true,
+     "publik": true,
+     "forwarding": false,
+     "Loading": false,
+     "antitroli" : false,
+     
+     "autovn" : false,
+     "autosticker" : true,
+     "autorespon" : false,
+     "autotyping" : false,
+     "autoread" : true,
+     "autoblockcmd" : false, 
+     "autobio" : true,
+
+     "totalForward" : 1000000,
+     "explain": false,
+     "jumlahTroli": 2022,
+     
+     "antiPrivateChat": {
+     "chatBot" : false,
+     "teksChat" : "Gada menu"
+     },
+     
+     "setPayment": {
+     "Shopee" : "083870640443",
+     "Gopay" : "083870640443",
+     "Dana" : "083870640443",
+     "Ovo" : "083870640443"
+     },
+     
+     "setPrefix": {
+     "prefix": "!",
+     "multi": true,
+     "onepref" : false
+     },
+     
+     "Pilih salah satu fitur yang mau di aktifkan di bawah ini": "Untuk mengaktifkan ketik true dan false untuk menonaktiflan",
+                                                                                                                                                                                                                                                      
+     "setWelcome": {
+     "autoWelcome": true,
+     "welcomeType1": false,
+     "welcomeType2": false,
+     "welcomeType3": true,
+     "background": "https://tinyurl.com/yxvl8h3a"
+     },
+     
+     "setMenu": {
+     "katalogMenu": false,
+     "troliMenu": false,
+     "lokasiMenu": true,
+     "documentMenu": false
+     },
+     
+     "setReply": {
+     "setWeb":  false,
+     "setTroli": false,
+     "setMessage": true,
+     "setVideo": false
+     },
+     
+     "setQuoted": {
+     "fakeToko": true,
+     "fakeKontak": false,
+     "fakeTeks": false,
+     "fakeTroli": false
+     },
+     
+     "gamewaktu": 60,
+	 "limitCount": 10,
+	 "gcount": {
+	 "prem": 30,
+	 "user": 10
+},
+    
+   "Bot_ini_tidak_memerlukan_Apikey": "Sc No Enc Rp.40k hub IKY"
+}
+
+   
+   
